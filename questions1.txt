@@ -1,0 +1,10 @@
+Which data structure follows FIFO?|Stack|Queue|Tree|2
+Which data structure follows LIFO?|Queue|Stack|Array|2
+Which symbol is used for a single-line comment in C?|//|/*|##|1
+Which extension is used for a C source file?|.cpp|.java|.c|3
+Which loop executes at least once?|for loop|while loop|do-while loop|3
+Which function is used to print output in C?|scanf()|printf()|print()|2
+Which function is used to take input in C?|printf()|scanf()|input()|2
+Which operator is used for logical AND?|&|&&|||3
+What is the size of an int commonly in C?|1 byte|2 bytes|4 bytes|3
+Which keyword is used to return a value from a function?|break|return|continue|2

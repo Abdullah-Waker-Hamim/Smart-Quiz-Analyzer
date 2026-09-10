@@ -1,0 +1,10 @@
+What is the full form of CPU?|Central Processing Unit|Central Program Unit|Computer Processing Unit|1
+Which language is used to create web pages?|C|HTML|Python|2
+How many bits are there in one byte?|4|8|16|2
+Which one is an operating system?|Google|Windows|Intel|2
+What is the brain of a computer?|RAM|Hard Disk|CPU|3
+Which device is used to enter text into a computer?|Monitor|Keyboard|Speaker|2
+Which one is a programming language?|HTML|CSS|C++|3
+What does RAM stand for?|Random Access Memory|Read Access Memory|Run Access Memory|1
+Which device displays output from a computer?|Keyboard|Mouse|Monitor|3
+Which number system uses only 0 and 1?|Decimal|Binary|Octal|2

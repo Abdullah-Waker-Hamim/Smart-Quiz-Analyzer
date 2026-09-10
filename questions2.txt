@@ -1,0 +1,10 @@
+Which keyword is used to define a constant in C?|constant|const|fixed|2
+Which one is not a programming language?|C|Python|HTML|3
+Which operator is used for logical OR?|&&|||2
+Which operator is used to find the remainder?|/|%|*|2
+Which header file is used for printf() and scanf()?|string.h|stdio.h|math.h|2
+Which keyword is used to define a structure in C?|struct|class|define|1
+Which function is used to compare two strings?|strcpy()|strcmp()|strlen()|2
+Which function is used to find the length of a string?|strlen()|strcpy()|strcmp()|1
+Which keyword is used to allocate memory dynamically in C?|malloc|memory|new|1
+Which one is a valid variable name in C?|2value|my_value|my-value|2
